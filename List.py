@@ -7,13 +7,12 @@ List = [3, 5, 6, "Python", 96.5, True]
 # print(List[3])
 # print(List[4])
 # print(List[-1])
-# for i in List[3 ]:
-#     print(i)
+for i in List[3]:
+    print(len(i))
 # if 5 in List:
 # if "Py" in "Python":
 #     print("it is present")
 # else:
 #     print("It is not present"
 #
-print(List[0:6])
-
+# print(List[0:6])
